@@ -1,4 +1,4 @@
-# CargarProyectoLocalEnGitHubPorConsola
+# Cargar Proyecto Local en GitHub por consola
 Pasos a seguir para subir un proyecto local en GitHub mediante la cmd de Windows
 
 ----------------------------------
