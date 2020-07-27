@@ -3,7 +3,7 @@ Pasos a seguir para subir un proyecto local en GitHub mediante la cmd de Windows
 
 ----------------------------------
 ## Pasos: 
-  1) En la cmd ve hasta la carpeta del proyecto que quieras cargar/subir. Puedes utilizar dir para ver tus archivos en la ruta actual y cd para moverte entre rutas. Ejemplo: 
+  1) En la cmd ve hasta la carpeta del proyecto que quieras cargar/subir. Puedes utilizar dir para ver tus archivos o carpetas en la ruta actual y cd para moverte entre rutas. Ejemplo: 
     cd Documentos 
     dir 
     cd MiProyecto
