@@ -61,3 +61,15 @@ Para unir los cambios de la rama master en la otra rama
 
 Finalmente: 
   git push origin BRANCH_NAME
+
+---------------------------------
+## Releases
+Se basan en tags. 
+
+### Pasos: 
+En GitHub: 
+ 1) Pág. principal del repo
+ 2) A la derecha: click en Releases o Latest Release
+ 3) Click en "Draft a new release"
+ 4) Crear una nueva versión (se basan en tags). Seleeciona la rama que contiene el proyecto. Elija un titulo, descripción, puedes subir archivos binarios. Si no es estable debes marcar "This is a pre-release"
+ 5) Click en Publish Release
