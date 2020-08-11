@@ -64,7 +64,7 @@ Finalmente:
 
 ---------------------------------
 ## Releases
-Se basan en tags. 
+Versiones. Se basan en tags. 
 
 ### Pasos: 
 En GitHub: 
