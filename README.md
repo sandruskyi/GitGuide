@@ -19,7 +19,7 @@ Pasos a seguir para subir un proyecto local en GitHub mediante la cmd de Windows
      En caso de error puedes usar: 
      git add --ignore-errors .
      
-  4) git commit -m "Primer commit del proyecto - Detallalo como quieras."
+  4) git commit -m "Title - Primer commit del proyecto " -m "Description - Detallalo como quieras."
 
   5) git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
