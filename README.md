@@ -73,3 +73,7 @@ En GitHub:
  3) Click en "Draft a new release"
  4) Crear una nueva versión (se basan en tags). Seleeciona la rama que contiene el proyecto. Elija un titulo, descripción, puedes subir archivos binarios. Si no es estable debes marcar "This is a pre-release"
  5) Click en Publish Release
+ 
+---------------------------------
+## Clonar un repo por cmd
+https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository
