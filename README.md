@@ -2,7 +2,7 @@
    Son comandos que utilizo en mi día a día, y así no se me olvidan. 
    Documentación Oficial: https://git-scm.com/book/es/v2 || https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax */
 
-# Guía Rápida de GitHub 
+# Guía Rápida de Git
 ---------------------------------
 ## Cargar Proyecto Local en GitHub por consola
 Pasos a seguir para subir un proyecto local en GitHub mediante la cmd de Windows
