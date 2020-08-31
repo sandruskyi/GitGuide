@@ -77,3 +77,8 @@ En GitHub:
 ---------------------------------
 ## Clonar un repo por cmd
 https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+---------------------------------
+## Activar rutas largas
+Cmd como administrador: 
+git config --system core.longpaths true
